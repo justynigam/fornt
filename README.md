@@ -1,11 +1,19 @@
-<div align="center">
+# Nigam Prasad Lenka — Portfolio
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Personal developer portfolio for **Nigam Prasad Lenka** (B.Tech CSE, Vellore Institute of Technology, Bhopal · CGPA 8.71), showcasing Full-Stack Engineering, Open-Source Contributions, Generative AI & Multi-Agent Systems, Certifications, and Hackathon Achievements.
 
-  <h1>Built with AI Studio</h2>
+## Sections
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Profile & Dual Mode Switch**: Switch between Engineer Mode (`Nigam Prasad Lenka`) and Builder Mode (`justynigam`).
+- **Experience**: Freelance Full Stack Developer (OmniMU) and Jenkins CI Open Source Contributor.
+- **Projects**: Autonomous Regulatory Auditing Platform, QERCAS: RegTech Platform, and The Bid Executor: AI RFP Engine.
+- **Skills & Tools**: Filterable across Languages & Databases, Generative AI & LLMs, Backend & Frameworks, ML Libraries, Cloud & DevOps, and CS Fundamentals.
+- **Education, Certifications & Achievements**: VIT Bhopal, Oracle & Microsoft AI certifications, and national/global hackathon rankings.
+- **Contact & Resume**: Direct email, phone, GitHub, LinkedIn, and downloadable Resume PDF.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Tech Stack
 
-</div>
+- **Next.js 15** (App Router)
+- **TypeScript**
+- **Tailwind CSS**
+- **Motion** (`motion/react`)
