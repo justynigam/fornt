@@ -14,14 +14,12 @@ import HireMe from "../PageComponent/HireMe"
 import AnimatedWrapper from "@/utils/AnimatedWrapper"
 import { useSwitch } from "../Context/SwitchContext"
 import Nav from "../PageComponent/Nav"
-import RoleFitWidget from "../PageComponent/RoleFitWidget"
 
 const IndexPage = () => {
   const { isSwitchOn } = useSwitch()
 
   return (
     <Screen>
-      <RoleFitWidget />
       <div className="flex flex-col gap-6">
         <AnimatedWrapper delay={0.08}>
           <InfoCard />
